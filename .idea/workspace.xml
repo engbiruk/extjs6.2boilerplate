@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ad6a7eb-ebe5-44e4-9d35-604e973be0de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/company-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/custom-bar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/error-page-background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/flag-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/form/checkbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/form/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/friends/f9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/icons/cloud-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/icons/hot-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/icons/hot-icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/icons/new-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/icons/new-icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/lock-screen-background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/profile-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/1_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/2_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/3_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/4_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/mitul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/user-profile/mitul1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/.cvsignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/Boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/Microloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/app.defaults.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/bootstrap-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/build-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/codegen.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/cordova-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/cordova.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/development.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/development.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/ext.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/find-cmd-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/init-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/js-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/native.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/native.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/package.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/package.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/packager-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/page-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/phonegap-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/phonegap.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/production.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/production.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/refresh-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/resolve-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/resources-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/sass-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/sencha.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/slice-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/testing.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/testing.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/app/watch-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/workspace/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sencha/workspace/sencha.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/Pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/Radial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/Simulated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/Subscriptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/UserSharedItems.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/UserTimeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/dashboard/Counce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/dashboard/Full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/dashboard/Movies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/dashboard/Tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/dashboard/Visitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/email/Friends.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/email/Inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/faq/FAQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/marketshare/MultiYear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/marketshare/OneEntity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/marketshare/OneYear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/marketshare/Yearwise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/qg/Area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/qg/Bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/qg/Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/qg/Pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/search/Results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/search/Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/Base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/ChatMessages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/DataXY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/FriendsList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/MultiDataXY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/PanelSetting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/PersonalInfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/Subscription.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/YearwiseData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/email/Email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/email/Friend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/faq/Category.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/faq/Question.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/search/Attachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/search/Result.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/model/search/User.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proxy/Api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/NavigationTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/email/Friends.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/email/Inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/faq/FAQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/search/Results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/store/search/Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/chart/Bounces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/chart/Network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/chart/Visitors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/ChartBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/ChartsModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Pie3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Polar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/charts/Stacked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/dashboard/DashboardController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/dashboard/DashboardModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/dashboard/Weather.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/email/EmailModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/forms/SpecialOffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/Description.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/Notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/Social.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/Timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/UserProfileBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/view/profile/UserProfileModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/overrides/menu/Item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/resources/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/etc/all.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/authentication/Dialog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/authentication/LockingWindow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/dashboard/Dashboard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/email/Details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/email/Email.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/email/Inbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/forms/Wizards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/pages/BlankPage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/pages/Error404Window.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/pages/FAQ.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/search/Results.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/src/view/widgets/Widgets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/authentication/Dialog.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/email/Details.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/email/Email.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/email/Inbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/pages/BlankPage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/pages/FAQ.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/profile/UserProfile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/sass/var/view/widgets/Widgets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/Application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/AuthenticationController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/AuthenticationModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/Dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/LockScreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/LockingWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/Login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/PasswordReset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/authentication/Register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/charts/Charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Earnings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/HDDUsage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Members.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Sales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Todos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/TopMovie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/dashboard/Widgets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/ComposeViewController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/ComposeViewModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/DetailsViewModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/EmailController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/FriendsList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/FriendsListViewController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/FriendsListViewModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/MenuViewModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/email/Window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/forms/WizardForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/forms/WizardFormController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/forms/WizardFormModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/forms/WizardOne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/forms/Wizards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/MainContainerWrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/MainController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/main/MainModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/pages/BlankPage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/pages/Error404Window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/pages/Error500Window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/pages/ErrorBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/pages/FAQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/profile/ShareUpdate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/profile/UserProfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/search/Results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/search/ResultsController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/search/ResultsModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetD.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/WidgetF.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classic/src/view/widgets/Widgets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/authentication/AuthBase.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/dashboard/Dashboard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/dashboard/Network.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/dashboard/Services.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/faq/Items.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/forms/Finish.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/forms/Forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/forms/Wizard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/pages/BlankPage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/pages/ErrorBase.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/phone/email/Email.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/phone/search/Users.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/profile/UserProfile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/search/All.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/tablet/email/Email.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/widgets/BioTile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/widgets/SocialStatus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/src/view/widgets/StatusTile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/var/all.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/var/view/dashboard/Dashboard.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/var/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/sass/var/view/profile/UserProfile.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/Application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/profile/Phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/profile/Tablet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/authentication/AuthBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/authentication/LockScreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/authentication/Login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/authentication/PasswordReset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/authentication/Register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/charts/Charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Earnings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/HDDUsage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Sales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/Todos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/dashboard/TopMovie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/email/Actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/email/EmailController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/faq/Items.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/faq/ItemsController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/faq/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Account.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Address.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Finish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/forms/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/main/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/main/MainController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/main/Toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/pages/BlankPage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/pages/Error404.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/pages/Error500.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/pages/ErrorBase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/email/Compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/email/Email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/email/EmailController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/email/Inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/main/MainController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/phone/search/Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/profile/ShareUpdate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/profile/UserProfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/search/All.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/search/Results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/search/ResultsModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/tablet/email/Compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/tablet/email/Email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/tablet/email/EmailController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/tablet/email/Inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/tablet/search/Users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/BioTile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/FollowMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/SocialBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/SocialStatus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/StatusTile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/Widgets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modern/src/view/widgets/WidgetsController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/etc/all.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/example/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/example/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/example/fashion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/example/render.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/example/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/Application.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/view/dashboard/Weather.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/view/forms/SpecialOffer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/view/profile/UserProfileBase.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/src/view/search/Results.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/var/all.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/var/view/main/Main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/workspace.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="e#445#4493#0" expanded="false" />
+                <element signature="e#455#4487#0" expanded="false" />
+                <element signature="e#708#786#0" expanded="false" />
+                <element signature="e#880#4477#0" expanded="false" />
+                <element signature="e#4526#4623#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/Application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticationController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/AuthenticationController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dialog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/Dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticationModel.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/AuthenticationModel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#412#3233#0" expanded="false" />
+                <element signature="e#592#877#0" expanded="false" />
+                <element signature="e#895#1135#0" expanded="false" />
+                <element signature="e#1175#1774#0" expanded="false" />
+                <element signature="e#3243#4329#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>car</find>
+      <find>cartracker</find>
+      <find>ItemSelector</find>
+      <find>Chart.js</find>
+      <find>Chart</find>
+      <find>app</find>
+      <find>widget.security.login.form</find>
+      <find>widget.security.signin.form</find>
+      <find>security.login.form</find>
+      <find>Car</find>
+      <find>CarTracker</find>
+      <find>FAQ</find>
+      <find>theme</find>
+      <find>Hisab.Frontend.Portal</find>
+      <find>Ad</find>
+      <find>Admin.view</find>
+      <find>Admin.</find>
+      <find>Admin</find>
+      <find>output</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Admin</replace>
+      <replace>Hisab.Frontend.Portal.view</replace>
+      <replace>Hisab.Frontend.Portal.</replace>
+      <replace>Hisab.Frontend.Portal</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Neuronet\Originals\hisabfrontend\migration</dir>
+      <dir>$PROJECT_DIR$/.sencha/app</dir>
+      <dir>$PROJECT_DIR$/app</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/view/report/make/Dashboard.js" />
+        <option value="$PROJECT_DIR$/app/view/report/month/List.js" />
+        <option value="$PROJECT_DIR$/app/view/car/edit/tab/Image.js" />
+        <option value="$PROJECT_DIR$/app/controller/Cars.js" />
+        <option value="$PROJECT_DIR$/app/controller/Staff.js" />
+        <option value="$PROJECT_DIR$/app/view/car/edit/Form.js" />
+        <option value="$PROJECT_DIR$/app/view/car/edit/tab/Feature.js" />
+        <option value="$PROJECT_DIR$/app/view/staff/edit/Form.js" />
+        <option value="$PROJECT_DIR$/app/view/executive/Dashboard.js" />
+        <option value="$PROJECT_DIR$/app/view/report/make/Chart.js" />
+        <option value="$PROJECT_DIR$/app/view/report/month/Chart.js" />
+        <option value="$PROJECT_DIR$/app/view/report/month/Dashboard.js" />
+        <option value="$PROJECT_DIR$/app/controller/Dashboard.js" />
+        <option value="$PROJECT_DIR$/app/view/Viewport.js" />
+        <option value="$PROJECT_DIR$/app/view/layout/West.js" />
+        <option value="$PROJECT_DIR$/app/controller/Base.js" />
+        <option value="$PROJECT_DIR$/app/view/main/Main.js" />
+        <option value="$PROJECT_DIR$/app/model/Workflow.js" />
+        <option value="$PROJECT_DIR$/app/model/Staff.js" />
+        <option value="$PROJECT_DIR$/app/model/Image.js" />
+        <option value="$PROJECT_DIR$/app/model/Car.js" />
+        <option value="$PROJECT_DIR$/app/model/option/Model.js" />
+        <option value="$PROJECT_DIR$/app/model/report/Make.js" />
+        <option value="$PROJECT_DIR$/app/model/report/Month.js" />
+        <option value="$PROJECT_DIR$/app/view/security/login/Window.js" />
+        <option value="$PROJECT_DIR$/app/view/security/login/Form.js" />
+        <option value="$PROJECT_DIR$/app/model/security/User.js" />
+        <option value="$PROJECT_DIR$/app/controller/Security.js" />
+        <option value="$PROJECT_DIR$/app/controller/App.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/Application.js" />
+        <option value="$PROJECT_DIR$/${ext.dir}/build/examples/admin-dashboard/classic.json" />
+        <option value="$PROJECT_DIR$/app/data/Pie.js" />
+        <option value="$PROJECT_DIR$/modern.json" />
+        <option value="$PROJECT_DIR$/modern.jsonp" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/classic.json" />
+        <option value="$PROJECT_DIR$/classic.jsonp" />
+        <option value="$PROJECT_DIR$/classic/overrides/menu/Item.js" />
+        <option value="$PROJECT_DIR$/modern/src/Application.js" />
+        <option value="$PROJECT_DIR$/modern/src/profile/Phone.js" />
+        <option value="$PROJECT_DIR$/modern/src/profile/Tablet.js" />
+        <option value="$PROJECT_DIR$/sass/example/bootstrap.json" />
+        <option value="$PROJECT_DIR$/sass/example/bootstrap.jsonp" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/app/view/login/Login.js" />
+        <option value="$PROJECT_DIR$/classic/src/view/login/LoginController.js" />
+        <option value="$PROJECT_DIR$/app/view/login/LoginController.js" />
+        <option value="$PROJECT_DIR$/classic/src/Application.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="156" />
+    <option name="y" value="140" />
+    <option name="width" value="1331" />
+    <option name="height" value="750" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hisab.frontend.portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hisab.frontend.portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classic/src/view" />
+      <recent name="E:\Neuronet\Originals\hisabfrontend\migration\app\view" />
+      <recent name="E:\Neuronet\Originals\hisabfrontend\migration\app\model" />
+      <recent name="E:\Neuronet\Originals\hisabfrontend\migration\app\store" />
+      <recent name="E:\Neuronet\Originals\hisabfrontend\migration\overrides" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Yonathan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad6a7eb-ebe5-44e4-9d35-604e973be0de" name="Default" comment="" />
+      <created>1507109579695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507109579695</updated>
+      <workItem from="1507109581196" duration="4028000" />
+      <workItem from="1507189634002" duration="10800000" />
+      <workItem from="1507223799741" duration="29277000" />
+      <workItem from="1507539068823" duration="2639000" />
+      <workItem from="1507542806299" duration="23000" />
+      <workItem from="1507734615919" duration="14973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85301000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="-4" width="1873" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17725573" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27134147" sideWeight="0.50186867" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46646342" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27134147" sideWeight="0.49813133" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/workspace.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/core/src/Ext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="339" column="25" lean-forward="true" selection-start-line="339" selection-start-column="25" selection-end-line="339" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controller/App.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1507795423422" expanded="true" signature="2170:2177" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Application.js" />
+    <entry file="file://$PROJECT_DIR$/ext/modern/theme-windows/.sencha/package/codegen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/${ext.dir}/build/examples/admin-dashboard/classic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1937" lean-forward="false" selection-start-line="0" selection-start-column="1937" selection-end-line="0" selection-end-column="1937" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern/sass/src/view/authentication/AuthBase.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern/sass/src/view/dashboard/Dashboard.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/profile/UserProfileModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/profile/UserProfileBase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/data/Pie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/data/dashboard/Counce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.sencha/app/init-impl.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sencha-error-20171011-3.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2730">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="0" column="1168" lean-forward="false" selection-start-line="0" selection-start-column="1168" selection-end-line="0" selection-end-column="1168" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern.jsonp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11301">
+          <caret line="0" column="160827" lean-forward="false" selection-start-line="0" selection-start-column="160827" selection-end-line="0" selection-end-column="160827" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic.jsonp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="0" column="11753" lean-forward="false" selection-start-line="0" selection-start-column="11753" selection-end-line="0" selection-end-column="11753" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern/src/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern/src/profile/Phone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modern/src/profile/Tablet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/example/bootstrap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="0" column="12869" lean-forward="false" selection-start-line="0" selection-start-column="12869" selection-end-line="0" selection-end-column="12869" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="0" column="208154" lean-forward="false" selection-start-line="0" selection-start-column="208154" selection-end-line="0" selection-end-column="208154" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="408" column="9" lean-forward="true" selection-start-line="408" selection-start-column="9" selection-end-line="408" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/example/bootstrap.jsonp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="0" column="86438" lean-forward="false" selection-start-line="0" selection-start-column="86438" selection-end-line="0" selection-end-column="86438" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/packages/core/src/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="120" column="29" lean-forward="false" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/profile/Social.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/dashboard/DashboardController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/overrides/menu/Item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/MainContainerWrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/MainModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/login/LoginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="45" column="23" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/login/LoginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#445#4493#0" expanded="false" />
+            <element signature="e#455#4487#0" expanded="false" />
+            <element signature="e#708#786#0" expanded="false" />
+            <element signature="e#880#4477#0" expanded="false" />
+            <element signature="e#4526#4623#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#412#3233#0" expanded="false" />
+            <element signature="e#592#877#0" expanded="false" />
+            <element signature="e#895#1135#0" expanded="false" />
+            <element signature="e#1175#1774#0" expanded="false" />
+            <element signature="e#3243#4329#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/AuthenticationModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/AuthenticationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classic/src/view/authentication/Dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
